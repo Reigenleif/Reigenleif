@@ -1,13 +1,8 @@
-- 👋 Hi, I’m Alip
-- 
-- 👀 I’m interested in 
-- 
-- 🌱 I’m currently learning ...
+Hi, I’m Alif Amirudin 
 
-- 💞️ I’m looking to collaborate on ...
+I’m interested in web developement and data science (also solidworks, sometimes when bored).
 
-- 📫 How to reach me ...
-
+I’m currently learning React, Node, Next, and Python
 
 
 <!---
