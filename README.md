@@ -1,6 +1,6 @@
 Hi, I’m Alif Amirudin 
 
-I’m interested in web developement and data science (also solidworks sometimes, if i'm bored).
+I’m interested in web developement and data science (also CAD sometimes, if i'm bored).
 
 I’m currently learning React, Node, Next, and Python
 
