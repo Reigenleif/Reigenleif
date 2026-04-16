@@ -1,6 +1,6 @@
 # Hello, There
 
-My name is Alif Amirudin 
+My name is Reigenleif
 
 I’m interested in web developement and data science (also CAD sometimes, if i'm bored).
 
